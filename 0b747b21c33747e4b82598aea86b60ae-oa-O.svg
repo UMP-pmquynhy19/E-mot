@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="522" height="380">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="0b747b21c33747e4b82598aea86b60ae-oa-1" height="28.24428" width="85.49619" y="67.32826" x="216.16793" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="0b747b21c33747e4b82598aea86b60ae-oa-2" height="21.37405" width="90.8397" y="109.31299" x="205.48091" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="0b747b21c33747e4b82598aea86b60ae-oa-3" height="24.42748" width="53.43512" y="179.542" x="307.77099" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text transform="rotate(-0.006253081373870373 253.57635498039707,223.94853210446146) matrix(0.8868517983150567,0,0,1.0244264477392233,35.78495536506175,0.6155617618200329) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="0b747b21c33747e4b82598aea86b60ae-oa-4" y="226.62404" x="245.57416" stroke-width="0" fill="#000000">FMN = Flavin Mononucleotide</text>
+  <rect id="0b747b21c33747e4b82598aea86b60ae-oa-5" height="29.00763" width="211.45039" y="210.83971" x="179.52671" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+  <rect id="0b747b21c33747e4b82598aea86b60ae-oa-6" height="20.61069" width="43.51145" y="358.16796" x="144.4122" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>

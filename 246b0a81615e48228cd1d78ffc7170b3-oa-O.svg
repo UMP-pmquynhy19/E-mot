@@ -1,0 +1,20 @@
+<svg height="456" width="606" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="36.26374" id="246b0a81615e48228cd1d78ffc7170b3-oa-1" stroke="#2D2D2D" width="58.24176" x="8.28567" y="125.31869"/>
+  <rect fill="#FFEBA2" height="27.47253" id="246b0a81615e48228cd1d78ffc7170b3-oa-2" stroke="#2D2D2D" width="52.74725" x="100.59337" y="129.7143"/>
+  <rect fill="#FFEBA2" height="34.06593" id="246b0a81615e48228cd1d78ffc7170b3-oa-3" stroke="#2D2D2D" width="63.73627" x="180.81315" y="124.2198"/>
+  <rect fill="#FFEBA2" height="21.97802" id="246b0a81615e48228cd1d78ffc7170b3-oa-4" stroke="#2D2D2D" width="56.04396" x="273.12084" y="128.61539"/>
+  <rect fill="#FFEBA2" height="27.47253" id="246b0a81615e48228cd1d78ffc7170b3-oa-5" stroke="#2D2D2D" width="54.94506" x="356.63733" y="127.5165"/>
+  <rect fill="#FFEBA2" height="28.57143" id="246b0a81615e48228cd1d78ffc7170b3-oa-6" stroke="#2D2D2D" width="68.13187" x="437.95601" y="126.41759"/>
+  <rect fill="#FFEBA2" height="23.07692" id="246b0a81615e48228cd1d78ffc7170b3-oa-7" stroke="#2D2D2D" width="73.62638" x="518.17579" y="125.31869"/>
+  <rect fill="#FFEBA2" height="48.35165" id="246b0a81615e48228cd1d78ffc7170b3-oa-8" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="89.01099" x="74.21974" y="187.95606"/>
+  <rect fill="#FFEBA2" height="34.06593" id="246b0a81615e48228cd1d78ffc7170b3-oa-9" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="106.59341" x="246.74722" y="196.74727"/>
+  <rect fill="#FFEBA2" height="82.41758" id="246b0a81615e48228cd1d78ffc7170b3-oa-10" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="95.6044" x="420.37359" y="174.76924"/>
+  <rect fill="#FFEBA2" height="108.79121" id="246b0a81615e48228cd1d78ffc7170b3-oa-11" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="76.92308" x="517.07689" y="191.25276"/>
+ </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="441">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-1" height="20.35398" width="131.85841" y="12.98231" x="173.09731" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-2" height="19.46903" width="120.35399" y="68.73453" x="412.92032" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-3" height="12.38938" width="46.90266" y="105.01771" x="449.20351" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-4" height="7.9646" width="74.33629" y="55.46019" x="130.61943" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-5" height="15.9292" width="51.32744" y="182.89382" x="438.58404" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-6" height="10.61947" width="20.35398" y="203.2478" x="428.84953" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-7" height="20.35398" width="38.0531" y="266.07967" x="473.09732" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-8" height="21.23894" width="73.45133" y="185.54869" x="190.79642" stroke="#2D2D2D" fill="#ffff00"/>
+  
+  <rect id="8240e918498a41919b52036a143b8c08-oa-9" height="42.47788" width="73.45133" y="126.25665" x="189.91147" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-10" height="15.9292" width="58.40708" y="210.32745" x="195.2212" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-11" height="15.9292" width="30.97345" y="287.3186" x="212.03536" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffff00"/>
+  <rect id="8240e918498a41919b52036a143b8c08-oa-12" height="14.15929" width="65.48673" y="303.24781" x="132.38934" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffff00"/>
+ </g>
+</svg>

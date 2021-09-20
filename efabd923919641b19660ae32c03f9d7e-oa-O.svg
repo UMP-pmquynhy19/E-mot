@@ -1,0 +1,13 @@
+<svg height="375" width="496" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="efabd923919641b19660ae32c03f9d7e-oa-1" stroke-width="0" text-anchor="middle" transform="matrix(0.7862030863761902,0,0,0.516024112701416,20.220511221326888,47.40695058554411) " x="134.63063" xml:space="preserve" y="169.38499">bắt đầu</text>
+  <text fill="#ff0000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="efabd923919641b19660ae32c03f9d7e-oa-2" stroke-width="0" text-anchor="middle" transform="matrix(0.5164626836776733,0,0,0.4514940083026886,56.39253951609135,148.6108421254903) " x="-43.89058" xml:space="preserve" y="249.57752">Kết thúc ?</text>
+  <image height="1.8018" id="efabd923919641b19660ae32c03f9d7e-oa-3" width="29.72973" x="71.56757" xlink:href="images/logo.png" y="148.42342"/>
+  <image height="0.9009" id="efabd923919641b19660ae32c03f9d7e-oa-4" width="2.7027" x="58.05406" xlink:href="images/logo.png" y="164.63964"/>
+ </g>
+</svg>

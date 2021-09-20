@@ -1,0 +1,15 @@
+<svg height="320" width="549" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text fill="#ffffff" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="691f85babc5644a6af948c7080bcfd5b-oa-1" stroke-width="0" style="cursor: move;" text-anchor="middle" x="340" xml:space="preserve" y="67">Xét nghiệm trước sinh</text>
+  <rect fill="#FFEBA2" height="43" id="691f85babc5644a6af948c7080bcfd5b-oa-2" stroke="#2D2D2D" width="288" x="35" y="105"/>
+  <rect fill="#FFEBA2" height="21" id="691f85babc5644a6af948c7080bcfd5b-oa-3" stroke="#2D2D2D" width="280" x="32" y="271"/>
+  <rect fill="#ffffff" height="45" id="691f85babc5644a6af948c7080bcfd5b-oa-4" stroke="#2D2D2D" width="160" x="40" y="224"/>
+  <text fill="#ffffff" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="691f85babc5644a6af948c7080bcfd5b-oa-5" stroke-width="0" text-anchor="middle" x="428" xml:space="preserve" y="307">một trong yếu tố</text>
+  <text fill="#ffffff" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="691f85babc5644a6af948c7080bcfd5b-oa-6" stroke-width="0" text-anchor="middle" x="268" xml:space="preserve" y="225">2 cái xâm lấn</text>
+ </g>
+</svg>

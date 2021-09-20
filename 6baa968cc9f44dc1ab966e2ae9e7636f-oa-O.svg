@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="479">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="6baa968cc9f44dc1ab966e2ae9e7636f-oa-1" height="18.26923" width="46.15385" y="183.5" x="321.92306" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="6baa968cc9f44dc1ab966e2ae9e7636f-oa-2" height="13.46154" width="28.84615" y="194.07692" x="385.3846" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="6baa968cc9f44dc1ab966e2ae9e7636f-oa-3" height="32.69231" width="85.57693" y="163.30769" x="418.07691" fill="#FFEBA2"/>
+  <rect id="6baa968cc9f44dc1ab966e2ae9e7636f-oa-4" height="30.76923" width="75" y="349.84615" x="407.49998" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text transform="matrix(0.7403239607810974,0,0,0.5884170532226562,-20.242558744736016,125.38736056699418) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="6baa968cc9f44dc1ab966e2ae9e7636f-oa-5" y="401.5547" x="291.39233" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">SSB=Single-Stranded Binding Protein</text>
+  <rect id="6baa968cc9f44dc1ab966e2ae9e7636f-oa-6" height="30.76923" width="261.53846" y="344.07692" x="92.11537" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ff7f00"/>
+ </g>
+</svg>

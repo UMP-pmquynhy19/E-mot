@@ -1,0 +1,13 @@
+<svg height="433" width="573" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="20.83333" id="8e9535226ed04ddfae352d548b549f99-oa-1" stroke="#2D2D2D" width="84.375" x="53.04164" y="206.58334"/>
+  <rect fill="#FFEBA2" height="23.95833" id="8e9535226ed04ddfae352d548b549f99-oa-2" stroke="#2D2D2D" width="109.375" x="75.9583" y="237.83335"/>
+  <rect fill="#FFEBA2" height="18.75" id="8e9535226ed04ddfae352d548b549f99-oa-3" stroke="#2D2D2D" width="156.25" x="124.91664" y="285.75001"/>
+  <text fill="#ff0000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" font-weight="bold" id="8e9535226ed04ddfae352d548b549f99-oa-4" stroke-width="0" text-anchor="middle" x="263.45831" xml:space="preserve" y="259.70835">Diplotene</text>
+ </g>
+</svg>

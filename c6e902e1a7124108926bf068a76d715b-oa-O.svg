@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1009" height="458">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text transform="matrix(0.6240325570106505,0,0,0.6430165171623229,35.25869756556767,133.65684698335826) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="c6e902e1a7124108926bf068a76d715b-oa-1" y="395.70369" x="93.77781" stroke-width="0" fill="#000000">màng bao sụn</text>
+  <rect id="c6e902e1a7124108926bf068a76d715b-oa-2" height="28.7037" width="117.5926" y="367.92591" x="35.44447" stroke="#2D2D2D" fill="#ffff00"/>
+  <text transform="matrix(0.5201243570474787,0,0,0.5673042717695583,456.8014326782008,71.399666022051) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="c6e902e1a7124108926bf068a76d715b-oa-3" y="140.14813" x="866.00005" stroke-width="0" fill="#000000">nguyên bào sợi của màng bao sụn</text>
+  <rect id="c6e902e1a7124108926bf068a76d715b-oa-4" height="29.62963" width="190.74075" y="132.74072" x="810.44449" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffff00"/>
+  <text transform="matrix(0.5878748297691345,0,0,0.5004313588142395,323.24136203248054,135.24086007975347) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="c6e902e1a7124108926bf068a76d715b-oa-5" y="272.54755" x="997.28193" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">nguyên bào sụn</text>
+  <rect id="c6e902e1a7124108926bf068a76d715b-oa-6" height="17.59259" width="117.5926" y="258.66665" x="848.40746" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#000000"/>
+ </g>
+</svg>
